@@ -2,14 +2,17 @@ theme: jekyll-theme-minimal
 title: Lin Meng | 孟琳
 logo: /profile.jpg
 
-social_links:
-    github: https://github.com/linmengsysu
-    mail: mailto:lin@ifmlab.org
+
 
 keywords: Homepage, CV, Academic, Graph Neural Nets
 description: Homepage
 
 
-author: Lin Meng
+author:
+    name: Lin Meng
+    email: lin@ifmlab.org  
+    github: linmengsysu  
+    linkedin: Lin Meng 
+
 avatar: /profile.jpg
 
