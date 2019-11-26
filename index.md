@@ -40,54 +40,46 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # ABOUT
-I am Zitai, a second year Master student at the [Schoole of Data and Computer Science](http://sdcs.sysu.edu.cn/), [Sun Yat-sen University (SYSU)](http://www.sysu.edu.cn/2012/en/index.htm). 
+I'm currently a Ph.D. student in [Computer Science](http://cs.fsu.edu/) at Florida State University. My advisor is Prof. Jiawei Zhang. Prior that, I graduated from [Sun Yat-sen University (Zhongshan University)](http://www.sysu.edu.cn/2012/en/index.htm) in 2014. I worked with Prof. Zibin Zheng and Dr. Chuan Chen during my undergrad.
 
-I work on **Graph Mining**, **Tensor Method**, **Statistical Machine Learning** and **Deep Learning**.  
-My advisors are [Zibin Zheng](http://www.zibinzheng.com/home) and [Chuan Chen](https://chuanchen.weebly.com/).
-
-I am looking for a research position, and I am more willing to pursue a PhD. If you are interested in my works, you are welcome to contact me.
+My primary research interests include **Graph Neural Networks**, **Graph Mining** and **Recommender System** from graph perspective.
+                        
 
 You can contact me through **chenzt25@mail2.sysu.edu.cn**, or Room 529, Supercomputer Center, Sun Yat-sen University, Guangzhou, China.
 
-[Full CV](https://zitaichen.github.io/CV.pdf)
+[Full CV](https://linmengsysu.github.io/Resume.pdf)
 
 # News
 
-I will attend [IJCAI 2019](https://ijcai19.org/) in Venetian, Macao SAR, China. My presentation is on the morning of Wednesday, August 14.
+I will attend NeurIPS in Vancouver, Canada. See you there!
 
 # EDUCATION
 
 <dl>
+ <dt>Florida State University</dt>
+ <dd>Ph.D, Computer Science, 2018-Present.</dd>
+ 
  <dt>SUN YAT-SEN UNIVERSITY</dt>
- <dd>Master student, Computational Mathematics, 2017 till now.</dd>
- <dt>CENTRAL SOUTH UNIVERSITY</dt>
- <dd>BS, Mathematics, 2013-2017.</dd>
+ <dd>BE, Computer Science, 2014-2018.</dd>
+ 
 </dl>
  
  
  
-# SELECTED PAPERS
+# Publications
+* **Isomorphic Neural Network for Graph Representation Learning and Classification**. **Lin Meng**, Jiawei Zhang.  Graph Representation Learning Workshop of the 33rd Conference on Neural Information Processing Systems (NIPS ’19 Workshop), Vancouver, Canada, December 8-14, 2019.
 
-* **[Variational Graph Embedding and Clustering with Laplacian Eigenmaps](https://www.ijcai.org/proceedings/2019/297)**  
- **Zitai Chen**, Chuan Chen, Zong Zhang, Zibin Zheng, Qingsong Zou (2019).  
- In IJCAI 2019. 
-* **[SINE: Side Information Network Embedding](https://link.springer.com/chapter/10.1007\%2F978-3-030-18576-3_41)**  
- **Zitai Chen**\*, Tongzhao Cai\*, Chuan Chen, Zibin Zheng, Guohui Ling (2019).  
- In DASFAA 2019.
-* **[Tensor Decomposition for Multilayer Networks Clustering](https://aaai.org/ojs/index.php/AAAI/article/view/4211)**      
- **Zitai Chen**, Chuan Chen, Zibin Zheng, Yi Zhu (2019).  
- In AAAI 2019. 
+* **LATTE: Application Oriented Network Embedding**. **Lin Meng**, Jiyang Bai, Jiawei Zhang.  In: Proceedings of the 36th IEEE International Conference on Data    Engineering (BigData ’19), Los Angeles, CA, USA, December 9-12, 2019.
+* **Deep Heterogeneous Social Network Alignment**. **Lin Meng**, Yuxiang Ren, Jiawei Zhang, Fanghua Ye, Philip S. Yu.  In: Proceedings of the 5th IEEE International Conference on Collaboration and Internet Computing (CIC ’19), Los Angeles, CA, USA, December 12-14, 2019.
 
-# Presentation
 
-* **Vatitional Graph Embedding and Clustering with Laplacian Eigenmaps**  
-In IJCAI 2019, Macau SAR.   
-* **Tensor decomposition for Multilayer Networks Clustering**  
-In AAAI 2019, Honolulu.  
-* **Block term decomposition for Multilayer Networks Clustering**  
-In SIAM-ALA 2018, Hong Kong SAR.  
+# Honors and Awards
 
-# 
+* NeurIPS Travel Award, 2019 
+* FSU Student Travel Award, 2019
+* The Third Class Scholarship, SYSU, 2019
+* The First Class Scholarship, SYSU, 2019
+
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=VhkI4HgLXVICnFlP0fx-g-ncKS0MJkC1ZfVVuyDwapw&cl=ffffff&w=a"></script>
 
