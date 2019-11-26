@@ -57,7 +57,7 @@ My primary research interests include **Graph Neural Networks**, **Graph Mining*
  <dt>Florida State University</dt>
  <dd>Ph.D, Computer Science, 2018-Present.</dd>
  
- <dt>SUN YAT-SEN UNIVERSITY</dt>
+ <dt>Sun Yat-sen University</dt>
  <dd>BE, Computer Science, 2014-2018.</dd>
  
 </dl>
