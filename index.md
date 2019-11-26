@@ -49,7 +49,7 @@ My primary research interests include **Graph Neural Networks**, **Graph Mining*
 
 # News
 
-I will attend NeurIPS in Vancouver, Canada. See you there!
+* I will attend NeurIPS in Vancouver, Canada. See you there!
 
 # EDUCATION
 
@@ -66,7 +66,6 @@ I will attend NeurIPS in Vancouver, Canada. See you there!
  
 # Publications
 * **Isomorphic Neural Network for Graph Representation Learning and Classification**. **Lin Meng**, Jiawei Zhang.  Graph Representation Learning Workshop of the 33rd Conference on Neural Information Processing Systems (NIPS ’19 Workshop), Vancouver, Canada, December 8-14, 2019.
-
 * **LATTE: Application Oriented Network Embedding**. **Lin Meng**, Jiyang Bai, Jiawei Zhang.  In: Proceedings of the 36th IEEE International Conference on Data    Engineering (BigData ’19), Los Angeles, CA, USA, December 9-12, 2019.
 * **Deep Heterogeneous Social Network Alignment**. **Lin Meng**, Yuxiang Ren, Jiawei Zhang, Fanghua Ye, Philip S. Yu.  In: Proceedings of the 5th IEEE International Conference on Collaboration and Internet Computing (CIC ’19), Los Angeles, CA, USA, December 12-14, 2019.
 
@@ -78,6 +77,8 @@ I will attend NeurIPS in Vancouver, Canada. See you there!
 * The Third Class Scholarship, SYSU, 2019
 * The First Class Scholarship, SYSU, 2019
 
+# Contact
+You can reach me by [mailto](mailto:lin@ifmlab.org).
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=VhkI4HgLXVICnFlP0fx-g-ncKS0MJkC1ZfVVuyDwapw&cl=ffffff&w=a"></script>
 
