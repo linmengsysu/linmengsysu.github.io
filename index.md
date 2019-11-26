@@ -31,7 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZitaiChen/zitaichen.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linmengsysu/linmengsysu.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # About
-I'm currently a second-year Ph.D. student in [Computer Science](http://cs.fsu.edu/) at Florida State University. My advisor is Prof. Jiawei Zhang. Prior that, I graduated from [Sun Yat-sen University (Zhongshan University)](http://www.sysu.edu.cn/2012/en/index.htm) in 2014. I worked with Prof. Zibin Zheng and Dr. Chuan Chen during my undergrad.
+I'm currently a second-year Ph.D. student in [Computer Science](http://cs.fsu.edu/) at [Florida State University](http://fsu.edu). My advisor is Prof. Jiawei Zhang. Prior that, I graduated from [Sun Yat-sen University]](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2014. I worked with Prof. Zibin Zheng and Dr. Chuan Chen during my undergrad.
 
 My primary research interests include **Graph Neural Networks**, **Graph Mining** and **Recommender System** from graph perspective.
                         
