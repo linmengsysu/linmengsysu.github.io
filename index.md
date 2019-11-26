@@ -45,8 +45,6 @@ I'm currently a Ph.D. student in [Computer Science](http://cs.fsu.edu/) at Flori
 My primary research interests include **Graph Neural Networks**, **Graph Mining** and **Recommender System** from graph perspective.
                         
 
-You can contact me through **chenzt25@mail2.sysu.edu.cn**, or Room 529, Supercomputer Center, Sun Yat-sen University, Guangzhou, China.
-
 [Full CV](https://linmengsysu.github.io/Resume.pdf)
 
 # News
