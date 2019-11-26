@@ -40,7 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # ABOUT
-I'm currently a Ph.D. student in [Computer Science](http://cs.fsu.edu/) at Florida State University. My advisor is Prof. Jiawei Zhang. Prior that, I graduated from [Sun Yat-sen University (Zhongshan University)](http://www.sysu.edu.cn/2012/en/index.htm) in 2014. I worked with Prof. Zibin Zheng and Dr. Chuan Chen during my undergrad.
+I'm currently a second-year Ph.D. student in [Computer Science](http://cs.fsu.edu/) at Florida State University. My advisor is Prof. Jiawei Zhang. Prior that, I graduated from [Sun Yat-sen University (Zhongshan University)](http://www.sysu.edu.cn/2012/en/index.htm) in 2014. I worked with Prof. Zibin Zheng and Dr. Chuan Chen during my undergrad.
 
 My primary research interests include **Graph Neural Networks**, **Graph Mining** and **Recommender System** from graph perspective.
                         
