@@ -80,5 +80,6 @@ My primary research interests include **Graph Neural Networks**, **Graph Mining*
 # Contact
 You can reach me by [lin@ifmlab.org](mailto:lin@ifmlab.org).
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=VhkI4HgLXVICnFlP0fx-g-ncKS0MJkC1ZfVVuyDwapw&cl=ffffff&w=a"></script>
+<a href="https://clustrmaps.com/site/1b0mb" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=IGKM7piVRtoLmq7_DqwibQ0dbwkEMuvRrNEiZ2u6Jvo&cl=ffffff"></a>
+
 
