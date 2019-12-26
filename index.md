@@ -47,7 +47,7 @@ My primary research interests include **Graph Neural Networks**, **Graph Mining*
 
 [Full CV](https://linmengsysu.github.io/Resume.pdf)
 
-# News
+# What's News
 
 * [12/10/2019] I will attend NeurIPS in Vancouver, Canada. See you there!
 
