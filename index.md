@@ -72,7 +72,7 @@ My primary research interests include **Graph Neural Networks**, **Graph Mining*
 
 # Honors and Awards
 
-* NeurIPS Travel Award, 2019 
+* NeurIPS Student Travel Award, 2019 
 * FSU Student Travel Award, 2019
 * The Third Class Scholarship, SYSU, 2017
 * The First Class Scholarship, SYSU, 2016
