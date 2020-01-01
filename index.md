@@ -65,9 +65,9 @@ My primary research interests include **Graph Neural Networks**, **Graph Mining*
  
  
 # Publications
-* **Isomorphic Neural Network for Graph Representation Learning and Classification**. **Lin Meng**, Jiawei Zhang.  Graph Representation Learning Workshop of the 33rd Conference on Neural Information Processing Systems (NeurIPS ’19 Workshop), Vancouver, Canada, December 8-14, 2019. [poster](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/IsoNNposter.pdf) [code](https://github.com/linmengsysu/IsoNN/tree/master/code)
-* **LATTE: Application Oriented Network Embedding**. **Lin Meng**, Jiyang Bai, Jiawei Zhang.  In: Proceedings of the 36th IEEE International Conference on Data Engineering (BigData ’19), Los Angeles, CA, USA, December 9-12, 2019. [slides](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/bigdata_latte.pdf)
-* **Deep Heterogeneous Social Network Alignment**. **Lin Meng**, Yuxiang Ren, Jiawei Zhang, Fanghua Ye, Philip S. Yu.  In: Proceedings of the 5th IEEE International Conference on Collaboration and Internet Computing (CIC ’19), Los Angeles, CA, USA, December 12-14, 2019.  <span style="color:red">*(invited paper)*</span> [slides](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/cic_deta.pdf)
+* **Isomorphic Neural Network for Graph Representation Learning and Classification**. **Lin Meng**, Jiawei Zhang.  Graph Representation Learning Workshop of the 33rd Conference on Neural Information Processing Systems (NeurIPS ’19 Workshop), Vancouver, Canada, December 8-14, 2019. [\[poster\]](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/IsoNNposter.pdf) [\[code\]](https://github.com/linmengsysu/IsoNN/tree/master/code)
+* **LATTE: Application Oriented Network Embedding**. **Lin Meng**, Jiyang Bai, Jiawei Zhang.  In: Proceedings of the 36th IEEE International Conference on Data Engineering (BigData ’19), Los Angeles, CA, USA, December 9-12, 2019. [\[slide\]s](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/bigdata_latte.pdf)
+* **Deep Heterogeneous Social Network Alignment**. **Lin Meng**, Yuxiang Ren, Jiawei Zhang, Fanghua Ye, Philip S. Yu.  In: Proceedings of the 5th IEEE International Conference on Collaboration and Internet Computing (CIC ’19), Los Angeles, CA, USA, December 12-14, 2019.  <span style="color:red">*(invited paper)*</span> [\[slides\]](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/cic_deta.pdf)
 
 
 # Honors and Awards
