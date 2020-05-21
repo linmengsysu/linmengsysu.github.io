@@ -48,7 +48,7 @@ My primary research interests include **Graph Neural Networks**, **Graph Mining*
 [Full CV](https://linmengsysu.github.io/Resume.pdf)
 
 # What's New
-* [05/18/2020] I will join Futurewei's IC-Lab/AI group as a summer intern.
+* [05/26/2020] I will join Futurewei's IC-Lab/AI group as a summer intern.
 * [12/10/2019] I will attend NeurIPS in Vancouver, Canada. See you there!
 
 # Education
