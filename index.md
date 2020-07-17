@@ -44,7 +44,7 @@ I'm currently a second-year Ph.D. student in [Computer Science](http://cs.fsu.ed
 
 My primary research interests include **Graph Neural Networks**, **Graph Mining** and **Recommender System**.
 
-You can reach me by [lin@ifmlab.org](mailto:lin@ifmlab.org). Please feel free to contact me for any discussion and collaboration.                   
+You can reach me by [lin@ifmlab.org](mailto:lin@ifmlab.org). Please feel free to contact me for any discussion or collaboration.                   
 [Full CV](https://linmengsysu.github.io/Resume.pdf)
 
 # What's New
