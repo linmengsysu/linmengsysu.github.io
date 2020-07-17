@@ -56,10 +56,10 @@ You can reach me by [lin@ifmlab.org](mailto:lin@ifmlab.org). Please feel free to
 
 <dl>
  <dt>Florida State University</dt>
- <dd>Ph.D, Computer Science, 2018-Present.</dd>
+ <dd>Ph.D, Computer Science, Department of Computer Science, 2018-Present.</dd>
  
  <dt>Sun Yat-sen University</dt>
- <dd>BE, Network Engineering, 2014-2018.</dd>
+ <dd>BE, Network Engineering, Department of Computer Science, 2014-2018.</dd>
  
 </dl>
  
