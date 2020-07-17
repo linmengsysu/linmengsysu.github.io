@@ -43,8 +43,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 I'm currently a second-year Ph.D. student in [Computer Science](http://cs.fsu.edu/) at [Florida State University](http://fsu.edu). My advisor is Prof. [Jiawei Zhang](http://www.ifmlab.org/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2018. I worked with Prof. [Zibin Zheng](http://www.zibinzheng.com/) and Dr. Chuan Chen during my undergrad.
 
 My primary research interests include **Graph Neural Networks**, **Graph Mining** and **Recommender System** from graph perspective.
-                        
 
+You can reach me by [lin@ifmlab.org](mailto:lin@ifmlab.org). Please feel free to contact me for any discussion and collaboration.                   
 [Full CV](https://linmengsysu.github.io/Resume.pdf)
 
 # What's New
@@ -78,8 +78,7 @@ My primary research interests include **Graph Neural Networks**, **Graph Mining*
 * FSU Student Travel Award, 2019
 * The Third Class Scholarship, SYSU, 2017
 * The First Class Scholarship, SYSU, 2016
+* National Encouragement Schloarship, 2016
 
-# Contact
-You can reach me by [lin@ifmlab.org](mailto:lin@ifmlab.org).
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=IGKM7piVRtoLmq7_DqwibQ0dbwkEMuvRrNEiZ2u6Jvo&cl=ffffff&w=a"></script>
