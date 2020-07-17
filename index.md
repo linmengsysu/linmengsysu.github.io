@@ -48,8 +48,9 @@ My primary research interests include **Graph Neural Networks**, **Graph Mining*
 [Full CV](https://linmengsysu.github.io/Resume.pdf)
 
 # What's New
-* [05/26/2020] I will join Futurewei's IC-Lab/AI group as a summer intern.
-* [12/10/2019] I will attend NeurIPS in Vancouver, Canada. See you there!
+* [05/2020] One research paper is accepted by ACM Conference on Hypertext and Social Media (HT’20).
+* [05/2020] I will join Futurewei's IC-Lab/AI group as a summer intern.
+* [12/2019] I will attend NeurIPS in Vancouver, Canada. See you there!
 
 # Education
 
@@ -68,6 +69,7 @@ My primary research interests include **Graph Neural Networks**, **Graph Mining*
 * **Isomorphic Neural Network for Graph Representation Learning and Classification**. **Lin Meng**, Jiawei Zhang.  Graph Representation Learning Workshop of the 33rd Conference on Neural Information Processing Systems (NeurIPS ’19 Workshop), Vancouver, Canada, December 8-14, 2019. [\[poster\]](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/IsoNNposter.pdf) [\[code\]](https://github.com/linmengsysu/IsoNN/tree/master/code)
 * **LATTE: Application Oriented Network Embedding**. **Lin Meng**, Jiyang Bai, Jiawei Zhang.  In: Proceedings of the 36th IEEE International Conference on Data Engineering (BigData ’19), Los Angeles, CA, USA, December 9-12, 2019. [\[slides\]](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/bigdata_latte.pdf)
 * **Deep Heterogeneous Social Network Alignment**. **Lin Meng**, Yuxiang Ren, Jiawei Zhang, Fanghua Ye, Philip S. Yu.  In: Proceedings of the 5th IEEE International Conference on Collaboration and Internet Computing (CIC ’19), Los Angeles, CA, USA, December 12-14, 2019.  <span style="color:red">*(invited paper)*</span> [\[slides\]](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/cic_deta.pdf)
+* **Scalable Heterogeneous Social Network Alignment through Synergistic Graph Partition**. Yuxiang Ren, **Lin Meng**, and Jiawei Zhang. 31st ACM Conference on Hypertext and Social Media (HT’20), Virtual Edition, July 13-15 2020, 2020.
 
 
 # Honors and Awards
