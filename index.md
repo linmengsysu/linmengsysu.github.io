@@ -48,6 +48,7 @@ You can reach me by [lin@ifmlab.org](mailto:lin@ifmlab.org). Please feel free to
 [Full CV](https://linmengsysu.github.io/Resume.pdf)
 
 # What's New
+* [10/2021] I will serve SDM'22 as PC member.
 * [05/2020] One research paper is accepted by ACM Conference on Hypertext and Social Media (HT’20).
 * [05/2020] I will join Futurewei's IC-Lab/AI group as a summer intern.
 * [12/2019] I will attend NeurIPS in Vancouver, Canada. See you there!
@@ -57,6 +58,9 @@ You can reach me by [lin@ifmlab.org](mailto:lin@ifmlab.org). Please feel free to
 <dl>
  <dt>Department of Computer Science, Florida State University</dt>
  <dd>Ph.D, Computer Science, 2018-Present.</dd>
+ 
+  <dt>Department of Computer Science, Florida State University</dt>
+ <dd>MS, Computer Science, 2018-2021.</dd>
  
  <dt>Department of Computer Science, Sun Yat-sen University</dt>
  <dd>BE, Network Engineering, 2014-2018.</dd>
