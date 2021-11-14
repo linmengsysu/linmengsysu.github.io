@@ -44,7 +44,7 @@ I'm currently a Ph.D. student in [Computer Science](http://cs.fsu.edu/) at [Flor
 
 My primary research interests include **Graph Neural Networks**, **Anamoly Detection** and **Recommender Systems**.
 
-You can reach me by [lin@ifmlab.org](mailto:lin@ifmlab.org). Please feel free to contact me for any discussion or collaboration.                   
+You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Please feel free to contact me for any discussion or collaboration.                   
 [Full CV](https://linmengsysu.github.io/Resume.pdf)
 
 # What's New
