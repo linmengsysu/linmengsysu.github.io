@@ -48,7 +48,7 @@ You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Pleas
 [Full CV](https://linmengsysu.github.io/Resume.pdf)
 
 # What's New
-* [3/2022] I will join Intel AI Lab as a research intern this summer.
+* [03/2022] I will join Intel AI Lab as a research intern this summer.
 * [12/2021] I will serve as a PC member for KDD'22.
 * [10/2021] I will serve as a PC member for SDM'22.
 * [08/2021] I will serve as a journal reviewer for IEEE Transactions on Big Data.
