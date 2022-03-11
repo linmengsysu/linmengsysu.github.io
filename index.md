@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # About
 I'm currently a Ph.D. student in [Computer Science](http://cs.fsu.edu/) at [Florida State University](http://fsu.edu). My advisor is Prof. [Jiawei Zhang](http://www.ifmlab.org/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2018. I worked with Prof. [Zibin Zheng](http://www.zibinzheng.com/) and Dr. Chuan Chen during my undergrad.
 
-My primary research interests include **Graph Neural Networks**, **Anamoly Detection** and **Recommender Systems**.
+My primary research interests include **Graph Neural Networks**, **Fraud Detection** and **Recommender Systems**.
 
 You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Please feel free to contact me for any discussion or collaboration.                   
 [Full CV](https://linmengsysu.github.io/Resume.pdf)
