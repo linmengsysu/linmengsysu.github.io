@@ -49,6 +49,7 @@ You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Pleas
 
 # What's New
 * [06/2022] One paper is accepted by TAG workshop@ICML'22.
+* [05/2022] I will serve as a reviewer for NeurIPS'22.
 * [04/2022] One paper is accepted by IJCNN'22.
 * [03/2022] I will join Intel AI Lab, San Diego, CA as a research intern this summer.
 * [12/2021] I will serve as a PC member for KDD'22.
