@@ -49,7 +49,7 @@ You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Pleas
 
 # What's New
 * [01/2023] One paper is accepted by DASFAA'23.
-* [12/2022] I will serve as a PC member for KDD'23.
+* [12/2022] I will serve as a PC member for KDD'23 and a reviewer IEEE TBD.
 * [06/2022] One paper is accepted by TAG workshop@ICML'22.
 * [05/2022] I will serve as a reviewer for NeurIPS'22.
 * [04/2022] One paper is accepted by IJCNN'22.
