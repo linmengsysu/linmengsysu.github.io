@@ -80,15 +80,14 @@ You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Pleas
  
 # Selected Publications
 <ol>
-<li> **Isomorphic Neural Network for Graph Representation Learning and Classification**. **Lin Meng**, Jiawei Zhang. NeurIPS’19 Workshop. [\[poster\]](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/IsoNNposter.pdf) [\[code\]](https://github.com/linmengsysu/IsoNN/tree/master/code)</li>
+<li> **Isomorphic Neural Network for Graph Representation Learning and Classification**. **Lin Meng**, Jiawei Zhang. NeurIPS’19 Workshop.</li>
 <li> **Decoupling Graph Neural Network with Contrastive Learning for Fraud Detection**. **Lin Meng**, Yuxiang Ren, Jiawei Zhang. DASFAA'23.</li>
-<li> **Deoscillated Graph Collaborative Filtering**. Zhiwei Liu<sup>*</sup>, **Lin Meng**<sup>*</sup>, Fei Jiang, Jiawei Zhang, Philip S. Yu.  ICML'22 workshop.(<sup>*</sup> denotes equal contribution.)</li> 
-<li> **LATTE: Application Oriented Network Embedding**. **Lin Meng**, Jiyang Bai, Jiawei Zhang. IEEE BigData’19. </li>
+<li> **Deoscillated Graph Collaborative Filtering**. Zhiwei Liu<sup>*</sup>, **Lin Meng**<sup>*</sup>, Fei Jiang, Jiawei Zhang, Philip S. Yu. ICML'22 workshop.(<sup>*</sup> denotes equal contribution.)</li> 
+<li> **LATTE: Application Oriented Network Embedding**. **Lin Meng**, Jiyang Bai, Jiawei Zhang. IEEE BigData’19.</li>
+ </ol>
 <!-- * **Deep Heterogeneous Social Network Alignment**. **Lin Meng**, Yuxiang Ren, Jiawei Zhang, Fanghua Ye, Philip S. Yu.  In: Proceedings of the 5th IEEE International Conference on Collaboration and Internet Computing (CIC ’19), Los Angeles, CA, USA, December 12-14, 2019.  <span style="color:red">*(invited paper)*</span> [\[slides\]](https://github.com/linmengsysu/linmengsysu.github.io/blob/master/slides/cic_deta.pdf) -->
 <!-- * **Scalable Heterogeneous Social Network Alignment through Synergistic Graph Partition**. Yuxiang Ren, **Lin Meng**, and Jiawei Zhang. 31st ACM Conference on Hypertext and Social Media (HT’20), Virtual Edition, July 13-15 2020, 2020.
  -->
- </ol>
-
 # Honors and Awards
 * GHC Student Scholarship, 2022
 * NeurIPS Student Travel Award, 2019 
