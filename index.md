@@ -80,9 +80,9 @@ You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Pleas
  
 # Selected Publications
 <ol>
-<li>Isomorphic Neural Network for Graph Representation Learning and Classification. Lin Meng, Jiawei Zhang. NeurIPS ’19 Workshop. </li>
-<li>Decoupling Graph Neural Network with Contrastive Learning for Fraud Detection. Lin Meng, Yuxiang Ren, Jiawei Zhang. DASFAA ’23. </li>
-<li>Deoscillated Graph Collaborative Filtering. Zhiwei Liu, Lin Meng, Fei Jiang, Jiawei Zhang, Philip S. Yu. ICML ’22 workshop. </li> 
+<li>**Isomorphic Neural Network for Graph Representation Learning and Classification**. Lin Meng, Jiawei Zhang. NeurIPS ’19 Workshop. </li>
+<li>**Decoupling Graph Neural Network with Contrastive Learning for Fraud Detection**. Lin Meng, Yuxiang Ren, Jiawei Zhang. DASFAA ’23. </li>
+<li>**Deoscillated Graph Collaborative Filtering**. Zhiwei Liu, Lin Meng, Fei Jiang, Jiawei Zhang, Philip S. Yu. ICML ’22 workshop. </li> 
 <li>LATTE: Application Oriented Network Embedding. Lin Meng, Jiyang Bai, Jiawei Zhang. IEEE BigData ’19. </li>
  </ol>
 
