@@ -45,7 +45,7 @@ I'm currently a Ph.D. candidate in [Computer Science](http://cs.fsu.edu/) at [Fl
 My primary research interests include **Graph Neural Networks**, **Fraud Detection** and **Recommender Systems**.
 
 You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Please feel free to contact me for any discussion or collaboration.                   
-[Full CV](https://linmengsysu.github.io/Lin_Meng_resume.pdf) [Google Scholar](https://scholar.google.com/citations?hl=en&user=hPmddEMAAAAJ)
+[\[Full CV\]](https://linmengsysu.github.io/Lin_Meng_resume.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?hl=en&user=hPmddEMAAAAJ) [\[LinkedIn\]](https://www.linkedin.com/in/lin-meng-246998183/)
 
 # What's New
 * [01/2023] One paper is accepted by DASFAA'23.
