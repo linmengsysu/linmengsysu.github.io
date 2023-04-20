@@ -47,7 +47,7 @@ My primary research interests include **Graph Neural Networks**, **Fraud Detecti
 You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Please feel free to contact me for any discussion or collaboration.                   
 [\[Full CV\]](https://linmengsysu.github.io/Lin_Meng_resume.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?hl=en&user=hPmddEMAAAAJ) [\[LinkedIn\]](https://www.linkedin.com/in/lin-meng-246998183/)
 
-<span style="color:red;font-size:16px">I am actively looking for postdoc, research scientist and applied scientist positions.</span>
+<span style="color:red;font-size:12px; font-weight:200">I am actively looking for postdoc, research scientist and applied scientist positions.</span>
 
 # What's New
 * [03/2023] I will serve as a review for IEEE TNNLS.
