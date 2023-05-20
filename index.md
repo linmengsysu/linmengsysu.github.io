@@ -50,7 +50,7 @@ You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Pleas
 <span style="color:red;font-size:16px; font-weight:700">I am actively looking for postdoc, applied scientist and machine learning engineer positions.</span>
 
 # What's New
-* [03/2023] I will serve as a review for IEEE TNNLS.
+* [03/2023] I will serve as a reviewer for IEEE TNNLS.
 * [01/2023] One paper is accepted by DASFAA'23.
 * [12/2022] I will serve as a PC member for KDD'23 and a reviewer IEEE TBD.
 * [06/2022] One paper is accepted by TAG workshop@ICML'22.
