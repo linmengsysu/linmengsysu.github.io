@@ -41,7 +41,7 @@ I'm co-advised by Prof. Jiawei Zhang and Prof. Xiaonan Zhang.
 
 
 # About
-I'm currently a Ph.D. candidate in [Computer Science](http://cs.fsu.edu/) at [Florida State University](http://fsu.edu). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2018. I worked with Prof. [Zibin Zheng](http://www.zibinzheng.com/) and Dr. Chuan Chen during my undergrad.
+I'm currently a Ph.D. candidate advised by [Prof. Jiawei Zhang](http://www.ifmlab.org/) in [Computer Science](http://cs.fsu.edu/) at [Florida State University](http://fsu.edu). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2018. I worked with Prof. [Zibin Zheng](http://www.zibinzheng.com/) and Dr. Chuan Chen during my undergrad.
 
 My primary research interests include **Graph Neural Networks**, **Fraud Detection** and **Recommender Systems**.
 
