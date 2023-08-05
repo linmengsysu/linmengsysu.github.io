@@ -51,6 +51,7 @@ You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Pleas
 <span style="color:red;font-size:16px; font-weight:700">I am actively looking for postdoc, applied scientist and research scientist positions.</span>
 
 # What's New
+* [08/2023] One paper is accepted by CIKM'23.
 * [03/2023] I will serve as a reviewer for IEEE TNNLS.
 * [01/2023] One paper is accepted by DASFAA'23.
 * [12/2022] I will serve as a PC member for KDD'23 and a reviewer IEEE TBD.
