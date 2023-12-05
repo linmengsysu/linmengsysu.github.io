@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-I'm co-advised by Prof. Jiawei Zhang and Prof. Xiaonan Zhang.
+I'm co-advised by Prof. Jiawei Zhang and Prof. Xiaonan Zhang. [\[Full CV\]](https://linmengsysu.github.io/Lin_Meng_resume.pdf)
 <--<span style="color:red;font-size:16px; font-weight:700">I am actively seeking positions in industry and academia.</span>-->
 
 -->
@@ -48,7 +48,7 @@ I'm currently a Ph.D. candidate co-advised by [Prof. Jiawei Zhang](http://www.if
 My primary research interests include **Graph Neural Networks**, **Fraud Detection** and **Recommender Systems**.
 
 You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Please feel free to contact me for any discussion or collaboration.                   
-[\[Full CV\]](https://linmengsysu.github.io/Lin_Meng_resume.pdf) [\[Google Scholar\]](https://scholar.google.com/citations?hl=en&user=hPmddEMAAAAJ) [\[LinkedIn\]](https://www.linkedin.com/in/lin-meng-246998183/)
+[\[Google Scholar\]](https://scholar.google.com/citations?hl=en&user=hPmddEMAAAAJ) [\[LinkedIn\]](https://www.linkedin.com/in/lin-meng-246998183/)
 
 
 # What's New
