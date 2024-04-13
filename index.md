@@ -43,7 +43,7 @@ I'm co-advised by Prof. Jiawei Zhang and Prof. Xiaonan Zhang. [\[Full CV\]](http
 
 
 # About
-I am a Staff Machine Learning Scientist at Visa. Previously, I obtained my Ph.D. from Florida State University, co-advised by [Prof. Jiawei Zhang](http://www.ifmlab.org/) and [Prof. Xiaonan Zhang](https://www.cs.fsu.edu/~xzhang/) in [Computer Science](http://cs.fsu.edu/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2018. I worked with Prof. [Zibin Zheng](http://www.zibinzheng.com/) and Dr. Chuan Chen during my undergrad.
+I am a Staff Machine Learning Scientist at Visa. Previously, I obtained my Ph.D. from Florida State University, co-advised by [Prof. Jiawei Zhang](http://www.ifmlab.org/) and [Prof. Xiaonan Zhang](https://www.cs.fsu.edu/~xzhang/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2018. I worked with Prof. [Zibin Zheng](http://www.zibinzheng.com/) and Dr. Chuan Chen during my undergrad.
 
 My primary research interests include **Graph Mining**, **Fraud Detection** and **Generative AI**.
 
