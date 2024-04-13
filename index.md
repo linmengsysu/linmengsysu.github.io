@@ -43,12 +43,12 @@ I'm co-advised by Prof. Jiawei Zhang and Prof. Xiaonan Zhang. [\[Full CV\]](http
 
 
 # About
-I'm currently a Ph.D. candidate co-advised by [Prof. Jiawei Zhang](http://www.ifmlab.org/) and [Prof. Xiaonan Zhang](https://www.cs.fsu.edu/~xzhang/) in [Computer Science](http://cs.fsu.edu/) at [Florida State University](http://fsu.edu). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2018. I worked with Prof. [Zibin Zheng](http://www.zibinzheng.com/) and Dr. Chuan Chen during my undergrad.
+I am a Staff Machine Learning Scientist at Visa. Previously, I obtained my Ph.D. from Florida State University, co-advised by [Prof. Jiawei Zhang](http://www.ifmlab.org/) and [Prof. Xiaonan Zhang](https://www.cs.fsu.edu/~xzhang/) in [Computer Science](http://cs.fsu.edu/). Prior that, I graduated from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (Zhongshan University) in 2018. I worked with Prof. [Zibin Zheng](http://www.zibinzheng.com/) and Dr. Chuan Chen during my undergrad.
 
-My primary research interests include **Graph Neural Networks**, **Fraud Detection** and **Recommender Systems**.
+My primary research interests include **Graph Mining**, **Fraud Detection** and **Generative AI**.
 
 You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Please feel free to contact me for any discussion or collaboration.                   
-[\[Google Scholar\]](https://scholar.google.com/citations?hl=en&user=hPmddEMAAAAJ) [\[LinkedIn\]](https://www.linkedin.com/in/lin-meng-246998183/)
+[\[Google Scholar\]](https://scholar.google.com/citations?user=3owWYF8AAAAJ&hl=en) [\[LinkedIn\]](https://www.linkedin.com/in/lin-meng-246998183/)
 
 
 # What's New
@@ -73,7 +73,7 @@ You can reach me by [linmenglm96@gmail.com](mailto:linmenglm96@gmail.com). Pleas
 
 <dl>
  <dt>Department of Computer Science, Florida State University</dt>
- <dd>Ph.D, Computer Science, 2018-Present.</dd>
+ <dd>Ph.D, Computer Science, 2018-2023.</dd>
  
   <dt>Department of Computer Science, Florida State University</dt>
  <dd>MS, Computer Science, 2018-2021.</dd>
